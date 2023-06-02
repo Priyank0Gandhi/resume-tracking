@@ -19,3 +19,7 @@ Create an API that takes as input a job description (text), candidate resume (Wo
 
 ## Organisation 
 Allwyn Corporation
+
+## Demo
+![image](https://github.com/Priyank0Gandhi/resume-tracking/assets/96395339/7bf8b036-4c7c-41e2-92d1-b6d2423be767)
+
