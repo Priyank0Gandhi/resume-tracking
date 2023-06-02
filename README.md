@@ -23,3 +23,9 @@ Allwyn Corporation
 ## Demo
 ![image](https://github.com/Priyank0Gandhi/resume-tracking/assets/96395339/7bf8b036-4c7c-41e2-92d1-b6d2423be767)
 
+![image](https://github.com/Priyank0Gandhi/resume-tracking/assets/96395339/329507df-bb68-490e-b08e-72a882ded338)
+
+![image](https://github.com/Priyank0Gandhi/resume-tracking/assets/96395339/2c9fa5f9-fed0-4c2e-b95d-ba423ad0a1b4)
+
+
+
